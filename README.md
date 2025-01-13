@@ -1,5 +1,5 @@
-# 🛒 이커머스 고객 세분화 분석 경진대회
-
+![image](https://github.com/user-attachments/assets/74d0a098-6357-4b55-9837-0179be0b5a40)# 🛒 이커머스 고객 세분화 분석 경진대회
+![image](https://github.com/user-attachments/assets/e439e304-0349-4955-b8a5-2a75e42d6faf)
 해당 출품작은 **데이콘에서 진행한 이커머스 고객 분석 경진대회**로 본선까지 진출하였습니다.
 
 ---
@@ -41,6 +41,8 @@ RFM-P 기법을 통해 고객을 다차원적으로 세분화하고, 이를 바�
 주어진 4가지 데이터셋에 대해 각각 분석을 진행하였습니다.  
 유효한 지표를 활용해 데이터를 해석하는 것이 타당하다고 판단하여 **고객 생애 가치(CLV)**, **ARPPU**, **리텐션** 등을 지표로 채택하였으며, 이를 기반으로 코드 구현을 수행했습니다.
 
+#### 주요 인사이트
+
 1. **Onlinesales_Info (제품 카테고리 및 제품 ID 분석)** (기여도 50%)
    - 제품 카테고리 및 ID별 인기 제품 선별
    - 인기 제품 구매 경험이 고객 리텐션에 미치는 영향 분석  
@@ -49,7 +51,7 @@ RFM-P 기법을 통해 고객을 다차원적으로 세분화하고, 이를 바�
      ⇒ **인기 제품 구매 시 리텐션 증가**  
    - 이용 카테고리 수 증가에 따른 CLV 분석
 
-   ![카테고리 수와 CLV 관계](https://prod-files-secure.s3.us-west-2.amazonaws.com/75b4374b-5a55-474b-83d6-efa30a914c69/9aebe680-69a0-4c9f-ad69-f204cbddfa60/image.png)
+   ![카테고리 수와 CLV 관계](https://github.com/user-attachments/assets/e5c2ca79-3453-4c25-bc9d-6afac0b53ff7)
 
 2. **Customer_Info (구매 이력 분석)**
    - **성별에 따른 CLV 비교:** 여성이 남성보다 1.65배 높은 CLV를 보임  
@@ -65,7 +67,7 @@ RFM-P 기법을 통해 고객을 다차원적으로 세분화하고, 이를 바�
    - 마케팅 비용이 높은 기간과 낮은 기간의 고객 리텐션 비교  
      ⇒ 마케팅 비용이 높은 기간의 고객 리텐션이 더 높음
 
-   ![마케팅 비용과 리텐션 관계](https://prod-files-secure.s3.us-west-2.amazonaws.com/75b4374b-5a55-474b-83d6-efa30a914c69/829cf80c-a515-4169-a1c1-9badfa29af8d/image.png)
+   ![마케팅 비용과 리텐션 관계](https://github.com/user-attachments/assets/9058e620-4bb8-465c-a9b1-6df67f4f2b5c)
 
 4. **Discount_Info (쿠폰 할인율 분석)**
    - 할인율별 구매 횟수, 평균 구매 금액, 평균 CLV 분석  
@@ -105,6 +107,7 @@ RFM-P 기법을 통해 고객을 다차원적으로 세분화하고, 이를 바�
 ---
 
 ## 📄 보고서 작성 (기여도 100%)
-
+- [보고서 링크](https://github.com/daainn/Dacon_customer-segmentation-contest/blob/main/Final_Submission/%EB%8F%8C%EA%B2%A9!%ED%96%84%ED%86%A0%EB%A6%AC%20(1).pdf)
+  
 - 분석 결과 요약 및 개선 방향 제안
 - 최종 프로젝트 보고서 작성
