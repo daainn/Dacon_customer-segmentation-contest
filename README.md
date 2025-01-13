@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/74d0a098-6357-4b55-9837-0179be0b5a40)# 🛒 이커머스 고객 세분화 분석 경진대회
+# 🛒 이커머스 고객 세분화 분석 경진대회
 ![image](https://github.com/user-attachments/assets/e439e304-0349-4955-b8a5-2a75e42d6faf)
 해당 출품작은 **데이콘에서 진행한 이커머스 고객 분석 경진대회**로 본선까지 진출하였습니다.
 
